@@ -33,19 +33,19 @@ const Home = () => {
         <div className="container text-center bg-dark p-3 con-sec-1">
           <div className="row">
             <div className="col-md-3 my-3">
-              <div className="location border-end">
+              <div className="location borderend">
                 <h5 className='c-golden'><FontAwesomeIcon icon={faLocationDot} className='pe-2' />Location</h5>
                 <p className='text-white mb-0'>Techzone 4, Greater Noida</p>
               </div>
             </div>
             <div className="col-md-3 my-3">
-              <div className="location border-end">
+              <div className="location borderend">
                 <h5 className='c-golden'><FontAwesomeIcon icon={faCrop} className='pe-2' />Project Size</h5>
                 <p className='text-white mb-0'>5 Acres</p>
               </div>
             </div>
             <div className="col-md-3 my-3">
-              <div className="location border-end">
+              <div className="location borderend">
                 <h5 className='c-golden'><FontAwesomeIcon icon={faCodeBranch} className='pe-2' />Type</h5>
                 <p className='text-white mb-0'>2 & 3 BHK Apartments</p>
               </div>

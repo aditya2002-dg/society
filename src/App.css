@@ -152,7 +152,7 @@ button.h-design {
     border: 3px solid var(--golden);
 }
 
-.border-end{
+.borderend{
     border-right: 1px solid #fff !important;
 }
 
@@ -188,7 +188,7 @@ button.h-design {
         font-size: 13px !important;
     }
 
-    .border-end{
-        border: none !important;
+    .borderend{
+        border-right: none !important;
     }
 }

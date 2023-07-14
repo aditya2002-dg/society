@@ -67,8 +67,8 @@ const Header = () => {
                                     </ul>
                                 </li>
                                 <li className="nav-item dropdown pe-2 fs-15">
-                                    <NavLink className="nav-link fw-bold" exact to="/photo-gallery" aria-current="page">
-                                        PHOTO GALLERY
+                                    <NavLink className="nav-link fw-bold" exact to="/check-maintenance  " aria-current="page">
+                                        CHECK MAINTENANCE
                                     </NavLink>
                                 </li>
                                 <li className="nav-item dropdown pe-2 fs-15">
